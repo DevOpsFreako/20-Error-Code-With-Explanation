@@ -1,0 +1,48 @@
+1: This error code usually indicates that a command or script has failed due to incorrect syntax or invalid arguments.
+
+2: This error code usually indicates that a command or script has failed due to a missing file or directory.
+
+126: This error code usually indicates that a command or script has failed because the user does not have permission to execute it.
+
+127: This error code usually indicates that a command or script has failed because the command could not be found or was not executable.
+
+128: This error code usually indicates that a command or script has failed due to a terminated process, such as a keyboard interrupt.
+
+130: This error code usually indicates that a command or script has failed due to a terminated process, such as a keyboard interrupt.
+
+139: This error code usually indicates that a program has segfaulted or crashed.
+
+141: This error code usually indicates that a program has received a SIGPIPE signal.
+
+143: This error code usually indicates that a program has received a SIGTERM signal.
+255: This error code usually indicates a general error or failure, such as a syntax error or invalid command.
+
+404: This is a common HTTP status code that indicates that the requested resource could not be found on the server.
+
+200: This is a common HTTP status code that indicates that the request was successful.
+
+403: This is a common HTTP status code that indicates that the server understood the request, but is refusing to fulfill it.
+
+500: This is a common HTTP status code that indicates that the server encountered an error while processing the request.
+
+401: This is a common HTTP status code that indicates that the request requires authentication, but the client has not provided valid credentials.
+
+404: This is a common HTTP status code that indicates that the requested resource could not be found on the server.
+
+503: This is a common HTTP status code that indicates that the server is temporarily unavailable, usually due to maintenance or overload.
+
+429: This is a common HTTP status code that indicates that the user has exceeded their request rate limit for a particular API or service.
+
+201: This is a common HTTP status code that indicates that a new resource has been successfully created.
+
+301: This is a common HTTP status code that indicates that the requested resource has been permanently moved to a new location.
+
+127: This is a Unix exit status code that usually indicates that the command could not be found or was not executable.
+
+0: This is a Unix exit status code that usually indicates success or no errors.
+
+255: This is a Unix exit status code that usually indicates an error or failure in the command or script.
+
+202: This is a common HTTP status code that indicates that the request has been accepted for processing, but the processing has not been completed yet.
+
+400: This is a common HTTP status code that indicates that the request could not be understood or was malformed.
